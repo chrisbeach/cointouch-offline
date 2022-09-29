@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: cointouch.com
+Token: b38dd1a1a519f73fac5bfbe53e88d68bb2b9d7f5787be8af179d0b1b7f16b0ed
